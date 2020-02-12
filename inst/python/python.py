@@ -1,10 +1,10 @@
 import numpy as np
-import seaborn as sb
-import matplotlib.pyplot as plt
+# import seaborn as sb
+# import matplotlib.pyplot as plt
 import statistics as st
-import pandas as pd
-import scipy as sp
-from scipy.stats import norm
+# import pandas as pd
+# import scipy as sp
+# from scipy.stats import norm
 import random
 
 def norm_converge(samp_siz, num_sims, exp = True, param = 0.3):
